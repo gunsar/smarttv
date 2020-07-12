@@ -92,7 +92,7 @@ https://ch.iptvmate.net/43e75982f545cbe5d4c34794a32e34da.m3u8
 http://178.217.72.66/225.201.2.156/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,BBC World News (EN)
 http://51.52.156.22:8888/http/004
-#EXTINF:-1 ,BFM Paris
+#EXTINF:-1 ,BFM Paris 
 https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_KB@429747/master.m3u8
 #EXTINF:-1 ,Bloomberg TV HD
 http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
