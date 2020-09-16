@@ -317,7 +317,7 @@ http://vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/seglist_720p.m3u8
 #EXTINF:-1 ,Zeta
 http://rtl-radio-stream-thron.akamaized.net/live-video/video3/video3/chunklist_b2296000.m3u8
 #EXTINF:-1 ,DANGDUT TV LIVE
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1600211111/ei/R_RgX8HkI6mFssUP5dqs-Ak/ip/36.90.83.158/id/TnoUsdXfYdw.1/source/yt_live_broadcast/requiressl/yes/tx/23935847/txs/23935842%2C23935843%2C23935844%2C23935845%2C23935846%2C23935847%2C23935848%2C23935849%2C23935850/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23915655/beids/23886213/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAOOZrA9zpPhkQFBUM6JiEKS6TCgKDOnnmxl60beo6BAzAiEAk9mNblmNDsd5i6_6oQQBCAjQFFr8GobwRcN2mbYqkAk%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1600282802/ei/UgxiX5jrJonmowP6_IOQBg/ip/36.90.80.95/id/b6tsMzBtDnA.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/1080/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAIUOcTfkfrMZHC5e80IVgAykYFshGO3DpYdLGIFallZsAiEAi7VBbcmroOk41eJZ7d5EcOG73Lh9rNiO5tlibEl0unM%3D/file/index.m3u8
 #EXTINF:-1 ,Hitz FM
 http://astro1.rastream.com/hitz?type=mp3
 #EXTINF:-1 ,ERA FM
