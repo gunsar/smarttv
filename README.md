@@ -317,7 +317,7 @@ http://vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/seglist_720p.m3u8
 #EXTINF:-1 ,Zeta
 http://rtl-radio-stream-thron.akamaized.net/live-video/video3/video3/chunklist_b2296000.m3u8
 #EXTINF:-1 ,DANGDUT TV LIVE
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1600401487/ei/79tjX86zJ9O8vgTx4IKwBg/ip/36.90.80.95/id/wtSVwhMX5RU.5/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/1080/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAPZYGujsD2og_gbVWJF65Lk5_5vPKZqCV-bFW-O8qQl8AiAn_JNNowbYedVTzH4n_oS_YxfavGSOFbxTqFfnm5sVEg%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1600502573/ei/zWZlX_DMKujv4-EP6taA8AM/ip/36.90.80.95/id/wtSVwhMX5RU.6/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23915654/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgLL3Y1CuJ3al2uxYHvWTO6ZLy8VGu9S5LWwg6zlex-YkCIQCaNsLD5jTBD7AXG6RDpULCdK7Y8LOYto4324Dina6kbg%3D%3D/file/index.m3u8
 #EXTINF:-1 ,Hitz FM
 http://astro1.rastream.com/hitz?type=mp3
 #EXTINF:-1 ,ERA FM
