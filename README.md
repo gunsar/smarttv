@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 ,Naura
 https://agplayback03.aotg-video.astro.com.my/CH2/master_NAURAGOSHOP4_03.m3u8
 #EXTINF:-1 ,TVIKIM
@@ -24,8 +25,6 @@ https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_2M.m3u8
 https://rt-usa.secure.footprint.net/1105_2500Kb.m3u8
 #EXTINF:-1 ,CGTN Documentary
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
-#EXTINF:-1 ,CONtv
-https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/640x360_756000/chunklist.m3u8
 #EXTINF:-1 ,RedBull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 ,BBC NEWS
@@ -66,8 +65,6 @@ http://cdn-01.bonus-tv.ru:8080/arirang_edge/tracks-v3a1/index.m3u8
 http://sc.id-tv.kz/Atameken_34_35.m3u8
 #EXTINF:-1 ,Atameken Business
 https://ch.iptvmate.net/43e75982f545cbe5d4c34794a32e34da.m3u8
-#EXTINF:-1 ,BBC NEWS
-http://178.217.72.66/225.201.2.156/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,BBC World News (EN)
 http://51.52.156.22:8888/http/004
 #EXTINF:-1 ,BFM Paris
@@ -88,8 +85,6 @@ https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
 http://2122248091.dogannet.tv/S2/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
 #EXTINF:-1 ,CNN Philippines
 http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
-#EXTINF:-1 ,CNN
-http://178.217.72.66/225.201.2.20/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,DW TV English
 http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8
 #EXTINF:-1 ,NBC
@@ -114,8 +109,6 @@ http://svc-lvanvato-cxtv-whio.cmgvideo.com/whio/2596k/index.m3u8
 https://etv-haryana.akamaized.net/i/etv_haryana_live_1@349009/index_1_av-b.m3u8
 #EXTINF:-1 ,NewsNet
 http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8
-#EXTINF:-1 ,NHK World
-http://178.217.72.66/225.201.2.8/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,PolsatNews2
 http://hls.redefine.pl/20C4EB56/1575/0/hls576/masterlist.m3u8
 #EXTINF:-1 ,RT America
@@ -146,8 +139,6 @@ http://rt-lh.akamaihd.net/i/ch_03@325607/index_720p_av-b.m3u8
 https://ch.iptvmate.net/d11c7fd4ef08895d9f14a1327cd01f0b.m3u8
 #EXTINF:-1 ,Russia Today HD (France)
 http://rt-france.secure.footprint.net/1107_2500Kb.m3u8
-#EXTINF:-1 ,Sky News
-http://43.255.241.173:80/skynews/mpegts
 #EXTINF:-1 ,SKY TG24
 http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/playlist.m3u8
 #EXTINF:-1 ,Syria News
@@ -184,8 +175,6 @@ https://agplayback03.aotg-video.astro.com.my/CH2/master_NAURAGOSHOP4.m3u8
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
 #EXTINF:-1 ,Australia Channel
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
-#EXTINF:-1 ,AXN
-https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/1920x1080_4528000/chunklist.m3u8
 #EXTINF:-1 ,B4U Music
 http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8
 #EXTINF:-1 ,Bloomberg Asia
@@ -198,8 +187,6 @@ https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Sour
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
 #EXTINF:-1 ,Bollywood TV
 http://a.jsrdn.com/broadcast/d5b45/+0000/high/c.m3u8
-#EXTINF:-1 ,CBS News
-https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:-1 ,CCTV 4 HD
 http://ivi.bupt.edu.cn/hls/cctv4hd.m3u8
 #EXTINF:-1 ,CGTN
@@ -218,8 +205,6 @@ https://live.chdrstatic.com/cbn/index.m3u8
 http://203.154.243.31:15001
 #EXTINF:-1 ,Deshi TV
 http://72.139.72.18:1935/live/myStream/playlist.m3u8
-#EXTINF:-1 ,Dil Se
-http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/index_2128_av-p.m3u8
 #EXTINF:-1 ,Drama Sangat
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/DramaSangat.m3u8
 #EXTINF:-1 ,Euronews
@@ -232,8 +217,6 @@ https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/
 https://liveru.cgtn.com/1000r/prog_index.m3u8
 #EXTINF:-1 ,Iflim English
 https://bozztv.com/36bay2/gin/giniko_ifilmenglish_800kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,MGM Scifi
-https://mgm-ssai.akamaized.net/amagi_hls_data_mgmAAAAAA-theworks/CDN/720x404_1425600/index.m3u8
 #EXTINF:-1 ,Monarch TV
 https://a.jsrdn.com/broadcast/0c9a09c94c/+0000/c.m3u8
 #EXTINF:-1 ,Movies Kingdom
@@ -248,8 +231,6 @@ https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/NTV7.m3u8
 https://a.jsrdn.com/broadcast/3gT64sH/c.m3u8
 #EXTINF:-1 ,People TV
 https://a.jsrdn.com/broadcast/b5d2k0x/playlist720p.m3u8
-#EXTINF:-1 ,Pop Pataka
-https://linear04hun-lh.akamaihd.net/i/poppataka_1@665241/index_2128_av-p.m3u8
 #EXTINF:-1 ,Racing Vic
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
 #EXTINF:-1 ,Real M Tv
@@ -276,8 +257,6 @@ http://skyfolk.mk/live.m3u8
 http://d2ajt1gpdtnw25.cloudfront.net:80/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 ,Telesur English
 https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8
-#EXTINF:-1 ,The Q
-https://amg1-i.akamaihd.net/hls/live/784034/QYou.stream_720pl/chunklist.m3u8
 #EXTINF:-1 ,Times Now
 http://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8
 #EXTINF:-1 ,TMZ
@@ -308,14 +287,8 @@ http://awscf-live-global.vtvgo.vn/live/_definst_/vtv8-high.m3u8
 https://bcliveunivsecure-lh.akamaihd.net/i/twn_1@631672/master.m3u8
 #EXTINF:-1 ,WeatherNation TV
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u
-#EXTINF:-1 ,World Fashion TV
-http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v2a1/index.m3u8
 #EXTINF:-1 ,World of Free Sports
 https://a.jsrdn.com/broadcast/22723/+0000/c.m3u8
-#EXTINF:-1 ,Xcorps
-http://vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/seglist_720p.m3u8
-#EXTINF:-1 ,Zeta
-http://rtl-radio-stream-thron.akamaized.net/live-video/video3/video3/chunklist_b2296000.m3u8
 #EXTINF:-1 ,DANGDUT TV LIVE
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1606540567/ei/t4jBX48rw4mKvg-nt53YDg/ip/45.79.10.193/id/IfNYcNWIim4.20/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgHGGD1lGbOucF6JVrC56vDIhxrDsEFdX54WkCYnl4v9wCIGGRloKm2twTUfUU2sCxekwrLchqzxWvuxm-2C9Kbqjz/file/index.m3u8
 #EXTINF:-1 ,Hitz FM
