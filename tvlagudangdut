@@ -1,3 +1,4 @@
-#EXTM3U
-#EXTINF:-1 group-title="Music",DANGDUT TV LIVE
+#EXTM3U 
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1606540567/ei/t4jBX48rw4mKvg-nt53YDg/ip/45.79.10.193/id/IfNYcNWIim4.20/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgHGGD1lGbOucF6JVrC56vDIhxrDsEFdX54WkCYnl4v9wCIGGRloKm2twTUfUU2sCxekwrLchqzxWvuxm-2C9Kbqjz/file/index.m3u8
