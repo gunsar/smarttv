@@ -289,8 +289,6 @@ https://bcliveunivsecure-lh.akamaihd.net/i/twn_1@631672/master.m3u8
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u
 #EXTINF:-1 ,World of Free Sports
 https://a.jsrdn.com/broadcast/22723/+0000/c.m3u8
-#EXTINF:-1 ,DANGDUT TV LIVE
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1606540567/ei/t4jBX48rw4mKvg-nt53YDg/ip/45.79.10.193/id/IfNYcNWIim4.20/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgHGGD1lGbOucF6JVrC56vDIhxrDsEFdX54WkCYnl4v9wCIGGRloKm2twTUfUU2sCxekwrLchqzxWvuxm-2C9Kbqjz/file/index.m3u8
 #EXTINF:-1 ,Hitz FM
 http://astro1.rastream.com/hitz?type=mp3
 #EXTINF:-1 ,ERA FM
@@ -303,6 +301,8 @@ http://172.83.43.162:8080/stream/;
 https://live.nagaswarafm.com:9900/stream
 #EXTINF:-1 ,Kool FM
 http://mediaprima.rastream.com/mediaprima-koolfm
+#EXTINF:-1 ,Loker Musik Indonesia
+http://live.lokermusik.com:8142/stream
 #EXTINF:-1 ,Lite FM
 http://astro1.rastream.com/lite?type=mp3
 #EXTINF:-1 ,NAGASWARA POP
