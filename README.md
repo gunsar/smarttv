@@ -302,7 +302,7 @@ https://live.nagaswarafm.com:9900/stream
 #EXTINF:-1 ,Kool FM
 http://mediaprima.rastream.com/mediaprima-koolfm
 #EXTINF:-1 ,Loker Musik Indonesia
-http://live.lokermusik.com:8142/stream
+https://stream.lokermusik.com:8420/lokermusik
 #EXTINF:-1 ,Lite FM
 http://astro1.rastream.com/lite?type=mp3
 #EXTINF:-1 ,NAGASWARA POP
