@@ -2,13 +2,21 @@
 #EXTINF:-1 ,Kabillion
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxkabillion/CDN/1280x720_5000000/index.m3u8
 #EXTINF:-1 ,Channel NewsAsia
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8 
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+#EXTINF:-1 ,Live DanceDhut Dangdut Malaysia Indonesia
+https://api.roll.my.id/manifest/?key=yt&id=E7nbg7UVjxU
+#EXTINF:-1 ,Live Pop Malaysia Indonesia
+https://api.roll.my.id/manifest/?key=yt&id=Is03gZsBeq0
+#EXTINF:-1 ,Live DanceDhut Dangdut Malaysia Indonesia
+https://api.roll.my.id/manifest/?key=yt&id=E7nbg7UVjxU
+#EXTINF:-1 ,Live Dance Remix DJ
+https://api.roll.my.id/manifest/?key=yt&id=k8rWXzAdnOw
 #EXTINF:-1 ,Arirang TV
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 #EXTINF:-1 ,Bloomberg
 https://cdn-videos.akamaized.net/btv/desktop/fastly/asia/live/primary.m3u8
 #EXTINF:-1 ,CGTN
-https://live.cgtn.com/1000/prog_index.m3u8
+https://live.cgtn.com/1000/prog_index.m3u8 
 #EXTINF:-1 ,DW
 https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
 #EXTINF:-1 ,France24
