@@ -4,10 +4,9 @@
 https://www.youtube.com/watch?v=l_8lsIWzgtQ
 #EXTINF:-1 group-title="Radio on TV",HITZ FM
 #EXTINF:-1 group-title="Radio on TV",NAGASWARA POP
-https://www.youtube.com/watch?v=Is03gZsBeq0
+https://bit.ly/3xUOgVh
 #EXTINF:-1 group-title="Radio on TV",NAGASWARA DANGDUT
-https://www.youtube.com/watch?v=E7nbg7UVjxU
-https://www.youtube.com/watch?v=FbwzA85N-6k
+https://bit.ly/3dh4I8E
 #EXTINF:-1 group-title="Radio on TV",ERA FM
 https://www.youtube.com/watch?v=er5pQv1tbH0
 #EXTINF:-1 group-title="Radio on TV",SINAR RADIO
