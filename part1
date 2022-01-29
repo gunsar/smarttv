@@ -3,10 +3,10 @@
 #EXTINF:-1 group-title="Radio on TV",HOT FM
 https://www.youtube.com/watch?v=l_8lsIWzgtQ
 #EXTINF:-1 group-title="Radio on TV",HITZ FM
-#EXTINF:-1 group-title="Radio on TV",NAGASWARA POP
-https://bit.ly/3xUOgVh
-#EXTINF:-1 group-title="Radio on TV",NAGASWARA DANGDUT
-https://bit.ly/3dh4I8E
+#EXTINF:-1 group-title="Radio on TV",NAGASWARA POP TV (AUTO)
+https://api.mbed.cc/youtube/live.m3u8?id=Is03gZsBeq0
+#EXTINF:-1 group-title="Radio on TV",NAGASWARA DANGDUT TV (AUTO)
+https://api.mbed.cc/youtube/live.m3u8?id=srriftW5RFs
 #EXTINF:-1 group-title="Radio on TV",ERA FM
 https://www.youtube.com/watch?v=er5pQv1tbH0
 #EXTINF:-1 group-title="Radio on TV",SINAR RADIO
