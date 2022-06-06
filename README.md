@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:-1 group-title="Radio on TV",HOT FM
 https://www.youtube.com/watch?v=l_8lsIWzgtQ
 #EXTINF:-1 group-title="Radio on TV",HITZ FM
@@ -41,9 +40,9 @@ https://stream.lokermusik.com:8420/lokermusik
 #EXTINF:-1 group-title="Radio",Lite FM
 http://astro1.rastream.com/lite?type=mp3
 #EXTINF:-1 group-title="Radio",NAGASWARA POP
-https://live.nagaswarafm.com:9100/stream
+https://live.nagaswarafm.com:9100/nagaswarapop
 #EXTINF:-1 group-title="Radio",NAGASWARA DANCEDHUT
-https://live.nagaswarafm.com:9200/stream
+https://live.nagaswarafm.com:9200/nagaswaradance
 #EXTINF:-1 group-title="Radio",Sinar FM
 http://astro2.rastream.com/sinar?type=mp3
 #EXTINF:-1 group-title="Radio",Mix FM
