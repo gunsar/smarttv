@@ -58,7 +58,7 @@ http://astro2.rastream.com/mix?type=mp3
 http://mediaprima.rastream.com/mediaprima-flyfm
 #EXTINF:-1 group-title="Radio",Best FM
 http://s8.voscast.com:8686/;stream1524468271750/1
-#EXTINF:-1 group-title="Radio",My FM
+#EXTINF:-1 group-title="Radio",My FM 
 http://astro1.rastream.com//myfm?type=mp3
 #EXTINF:-1 group-title="Radio",Melody FM
 http://astro3.rastream.com/melody?type=mp3
