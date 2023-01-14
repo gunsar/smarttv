@@ -2,7 +2,7 @@
 http://onlineradiobox.com/json/id/prambors/play
 #EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7184.jpg" group-title="RADIO",Ardan FM
 http://onlineradiobox.com/json/id/ardan/play
-#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7188.jpg" group-title="RADIO",MGTRADIO
+#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7188.jpg" group-title="RADIO",MGTRADIO 
 http://onlineradiobox.com/json/id/mgt/play
 #EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7166.jpg" group-title="RADIO",Elshinta FM
 http://onlineradiobox.com/json/id/elshinta/play
