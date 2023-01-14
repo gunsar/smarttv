@@ -1,28 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Radio on TV",HOT FM
-https://seulangatv.xyz/script/ytlive.m3u8?id=l_8lsIWzgtQ
-#EXTINF:-1 group-title="Radio on TV",NAGASWARA POP TV 
-https://seulangatv.xyz/script/ytlive.m3u8?id=Is03gZsBeq0
-#EXTINF:-1 group-title="Radio on TV",NAGASWARA DANGDUT TV
-https://seulangatv.xyz/script/ytlive.m3u8?id=Gvfr_OoTp1E
-#EXTINF:-1 group-title="Radio on TV",DANCEDHUT INDONESIA
-https://seulangatv.xyz/script/ytlive.m3u8?id=NYoNORroe3o
-#EXTINF:-1 group-title="Radio on TV",ERA FM
-https://seulangatv.xyz/script/ytlive.m3u8?id=er5pQv1tbH0
-#EXTINF:-1 group-title="Radio on TV",SINAR RADIO
-https://seulangatv.xyz/script/ytlive.m3u8?id=35OB2Hy20f4 
-#EXTINF:-1 group-title="Radio on TV",SURIA RADIO
-https://seulangatv.xyz/script/ytlive.m3u8?id=PnwbUK3U8sk
-#EXTINF:-1 group-title="Radio on TV",FLY FM
-https://seulangatv.xyz/script/ytlive.m3u8?id=MCti5WfPTnI
-#EXTINF:-1 group-title="Radio on TV",BULETIN FM
-https://seulangatv.xyz/script/ytlive.m3u8?id=IOOAOyredNI
-#EXTINF:-1 group-title="Radio on TV",AWANI
-https://seulangatv.xyz/script/ytlive.m3u8?id=Flaj1mboeX8
-#EXTINF:-1 group-title="Radio on TV",MAD RADIO 
-https://seulangatv.xyz/script/ytlive.m3u8?id=WEsJ0un-AME
-#EXTINF:-1 group-title="Radio on TV",8 FM
-https://seulangatv.xyz/script/ytlive.m3u8?id=GOiCIPAtdHA
 
 #EXTINF:-1 tvg-name="NAGASWARA RADIOTEMEN" tvg-logo="https://assets.streamtest.in/logo/2856/186_nagaswara-radiotemen.jpg?v=1655558832", NAGASWARA RADIOTEMEN
 https://live.nagaswarafm.com:9900/stream 
