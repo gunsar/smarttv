@@ -20,7 +20,7 @@ https://seulangatv.xyz/script/ytlive.m3u8?id=IOOAOyredNI
 #EXTINF:-1 group-title="Radio on TV",AWANI
 https://seulangatv.xyz/script/ytlive.m3u8?id=Flaj1mboeX8
 #EXTINF:-1 group-title="Radio on TV",MAD RADIO 
-https://seulangatv.xyz/script/ytlive.m3u8?id=WEsJ0un-AME
+https://seulangatv.xyz/script/ytlive.m3u8?id=WEsJ0un-AME 
 #EXTINF:-1 group-title="Radio on TV",8 FM
 https://seulangatv.xyz/script/ytlive.m3u8?id=GOiCIPAtdHA
 
