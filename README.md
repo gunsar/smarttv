@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-name="NAGASWARA RADIOTEMEN" tvg-logo="https://assets.streamtest.in/logo/2856/186_nagaswara-radiotemen.jpg?v=1655558832", NAGASWARA RADIOTEMEN 
-https://live.nagaswarafm.com;9900/stream
+https://live.nagaswarafm.com:9900/stream
 #EXTINF:-1 tvg-name="NAGASWARA POP" tvg-logo="https://assets.streamtest.in/logo/2857/186_nagaswara-pop.jpg?v=1655558792", NAGASWARA POP 
 https://live.nagaswarafm.com:9100/nagaswarapop
 #EXTINF:-1 tvg-name="NAGASWARA DANCEDHUT" tvg-logo="https://assets.streamtest.in/logo/2858/186_nagaswara-dancedhut.jpg?v=1655558856", NAGASWARA DANCEDHUT 
