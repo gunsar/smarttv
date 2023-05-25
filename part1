@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:-1 group-title="Radio",Hitz FM
 http://astro1.rastream.com/hitz?type=mp3
 #EXTINF:-1 group-title="Radio",ERA FM
@@ -8,17 +7,19 @@ http://astro2.rastream.com/era
 http://mediaprima.rastream.com/mediaprima-hotfm.android
 #EXTINF:-1 group-title="Radio",Ceria FM
 http://172.83.43.162:8080/stream/;
-#EXTINF:-1 group-title="Radio",NAGASWARA FM RADIOTEMEN
-https://live.nagaswarafm.com:9900/stream
+#EXTINF:-1 group-title="Radio",NAGASWARA Radio
+https://live.nagaswarafm.com:9900/nagaswararadio
 #EXTINF:-1 group-title="Radio",Kool FM
 http://mediaprima.rastream.com/mediaprima-koolfm
 #EXTINF:-1 group-title="Radio",Loker Musik Indonesia
-https://stream.lokermusik.com:8420/lokermusik
+https://stream.lokermusik.com/listen/lokermusik/lokermusik
+#EXTINF:-1 group-title="Radio",Sunda Radio
+https://sundaradio.com/live/sundaradio
 #EXTINF:-1 group-title="Radio",Lite FM
 http://astro1.rastream.com/lite?type=mp3
-#EXTINF:-1 group-title="Radio",NAGASWARA POP
+#EXTINF:-1 group-title="Radio",NAGASWARA Pop
 https://live.nagaswarafm.com:9100/nagaswarapop
-#EXTINF:-1 group-title="Radio",NAGASWARA DANCEDHUT
+#EXTINF:-1 group-title="Radio",NAGASWARA Dance
 https://live.nagaswarafm.com:9200/nagaswaradance
 #EXTINF:-1 group-title="Radio",Sinar FM
 http://astro2.rastream.com/sinar?type=mp3
@@ -40,324 +41,366 @@ http://starrfm.rastream.com/starrfm-suria
 https://19183.live.streamtheworld.com/RIA897FMAAC.aac?dist=onlineradiobox
 #EXTINF:-1 group-title="Radio",Kristal FM
 http://202.152.73.2:801/kfm
-#EXTINF:-1 group-title="Radio",Sunda Radio
-https://sundaradio.com/live/sundaradio
-#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7004.jpg" group-title="Radio",Prambors
-http://onlineradiobox.com/json/id/prambors/play 
-#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7184.jpg" group-title="Radio",Ardan FM
-http://onlineradiobox.com/json/id/ardan/play
-#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7188.jpg" group-title="Radio",MGTRADIO
-http://onlineradiobox.com/json/id/mgt/play
-#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7166.jpg" group-title="Radio",Elshinta FM
-http://onlineradiobox.com/json/id/elshinta/play
-#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7057.jpg" group-title="Radio",I Radio
+#EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.onlineradiobox.com/img/l/1/87511.v4.png",Prambors
+http://onlineradiobox.com/json/id/prambors/play
+#EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.onlineradiobox.com/img/l/9/18959.v9.png",I Radio
 http://onlineradiobox.com/json/id/ijakarta/play
-#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7055.jpg" group-title="Radio",Trax FM
-http://onlineradiobox.com/json/id/trax/play
-#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7056.jpg" group-title="Radio",Cosmopolitan FM
-http://onlineradiobox.com/json/id/cosmopolitan/play
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/8/19108.v6.png" group-title="Radio",V RADIO
-http://onlineradiobox.com/json/id/vjakarta/play
-#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7054.jpg" group-title="Radio",Brava FM
-http://onlineradiobox.com/json/id/brava/play
-#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7053.jpg" group-title="Radio",Hard Rock FM
-http://onlineradiobox.com/json/id/hardrockjakarta/play
-#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7130.jpg" group-title="Radio",Female FM
-http://onlineradiobox.com/json/id/female/play
-#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7092.jpg" group-title="Radio",Delta FM
-http://onlineradiobox.com/json/id/deltafm/play
-#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7091.jpg" group-title="Radio",Bahana FM
-http://onlineradiobox.com/json/id/bahana/play
-#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7218.jpg" group-title="Radio",Sushi Radio
-http://onlineradiobox.com/json/id/sushi/play
-#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7169.jpg" group-title="Radio",Elgangga FM
-http://onlineradiobox.com/json/id/elgangga/play
-#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7216.jpg" group-title="Radio",Geronimo FM
-http://onlineradiobox.com/json/id/geronimo/play
-#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7242.jpg" group-title="Radio",Dahlia FM
-http://onlineradiobox.com/json/id/dahlia/play
-#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7248.jpg" group-title="Radio",Nagaswara Radio
-http://onlineradiobox.com/json/id/nagaswarabogor/play
-#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7248.jpg" group-title="Radio",Nagaswara Pop
-http://onlineradiobox.com/json/id/nagaswarapop/play
-#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7248.jpg" group-title="Radio",Nagaswara DanceDhut
-http://onlineradiobox.com/json/id/nagaswaradancedhut/play
-#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7281.jpg" group-title="Radio",Imelda FM
-http://onlineradiobox.com/json/id/imelda/play
-#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7283.jpg" group-title="Radio",Swara Semarang
-http://onlineradiobox.com/json/id/swarasemarang/play
-#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7284.jpg" group-title="Radio",Gajah Mada FM
-http://onlineradiobox.com/json/id/gajahmada/play
-#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7297.jpg" group-title="Radio",Radio Cakra
-http://onlineradiobox.com/json/id/cakrabandung/play
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/0cbwjhiv843lila/Gen_FM.png?dl=1" group-title="Radio",Gen FM 103.1
-http://onlineradiobox.com/json/id/gensurabaya/play
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/klyuqqlwew3kzb4/Hot_fm_jkt.png?dl=1" group-title="Radio",HOT FM
+#EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.onlineradiobox.com/img/l/7/18827.v7.png",Ardan
+http://onlineradiobox.com/json/id/ardan/play
+#EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.onlineradiobox.com/img/l/6/76886.v18.png",HOT
 http://onlineradiobox.com/json/id/hot/play
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/fqdznsunlxtcgzs/JAKFM.png?dl=1" group-title="Radio",JAK FM
-http://onlineradiobox.com/json/id/101jakfm/play
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/6/91316.v14.png" group-title="Radio",SLOW FM
-http://onlineradiobox.com/json/id/slow/play
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/0/106040.v5.png" group-title="Radio",KIS ROCK
-http://onlineradiobox.com/json/id/kisrock/play
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/qq9n8ojtec3m9fa/KIS-95.1-FM.jpg?dl=1" group-title="Radio",KIS FM
+#EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.onlineradiobox.com/img/l/6/18826.v32.png",KIS
 http://onlineradiobox.com/json/id/kis/play
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/ehy1c45c2l8z543/MOSTRADIO.png?dl=1" group-title="Radio",MOST RADIO
+#EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.onlineradiobox.com/img/l/7/73707.v89.png1",MOST
 http://onlineradiobox.com/json/id/most/play
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/5g6wgbq9xwgsrw8/MUSTANG.png?dl=1" group-title="Radio",MUSTANG
+#EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.onlineradiobox.com/img/l/9/18879.v28.png",MUSTANG
 http://onlineradiobox.com/json/id/mustang/play
+#EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.onlineradiobox.com/img/l/2/19152.v21.png",NAGASWARA Radio
+http://onlineradiobox.com/json/id/nagaswarabogor/play
+#EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.onlineradiobox.com/img/l/9/75889.v9.png",NAGASWARA Pop
+http://onlineradiobox.com/json/id/nagaswarapop/play
+#EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/75890.v10.png",NAGASWARA DanceDhut
+http://onlineradiobox.com/json/id/nagaswaradancedhut/play
+#EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.onlineradiobox.com/img/l/9/75039.v9.png",Loker Musik Indonesia
+http://onlineradiobox.com/json/id/loker/play
+#EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.onlineradiobox.com/img/l/5/19705.v32.png",JAK
+http://onlineradiobox.com/json/id/101jakfm/play
+#EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.onlineradiobox.com/img/l/6/91316.v14.png",SLOW
+http://onlineradiobox.com/json/id/slow/play
+#EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/106040.v5.png",KIS ROCK
+http://onlineradiobox.com/json/id/kisrock/play
+#EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.onlineradiobox.com/img/l/6/19506.v10.png",MGT
+http://onlineradiobox.com/json/id/mgt/play
+#EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.onlineradiobox.com/img/l/6/18806.v11.png",Trax
+http://onlineradiobox.com/json/id/trax/play
+#EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.onlineradiobox.com/img/l/8/19028.v12.png",Cosmopolitan
+http://onlineradiobox.com/json/id/cosmopolitan/play
+#EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.onlineradiobox.com/img/l/8/19108.v6.png",V Radio
+http://onlineradiobox.com/json/id/vjakarta/play
+#EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.onlineradiobox.com/img/l/1/18831.v22.png",Brava
+http://onlineradiobox.com/json/id/brava/play
+#EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/18880.v12.png",Hard Rock
+http://onlineradiobox.com/json/id/hardrockjakarta/play
+#EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.onlineradiobox.com/img/l/6/60996.v12.png",Female
+http://onlineradiobox.com/json/id/female/play
+#EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.onlineradiobox.com/img/l/8/58058.v24.png",Delta
+http://onlineradiobox.com/json/id/deltafm/play
+#EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.onlineradiobox.com/img/l/8/19708.v17.png",Bahana
+http://onlineradiobox.com/json/id/bahana/play
+#EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.onlineradiobox.com/img/l/6/85966.v6.png",Sushi Radio
+http://onlineradiobox.com/json/id/sushi/play
+#EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/77170.v6.png",Elgangga
+http://onlineradiobox.com/json/id/elgangga/play
+#EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.onlineradiobox.com/img/l/7/19317.v12.png",Geronimo
+http://onlineradiobox.com/json/id/geronimo/play
+#EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.onlineradiobox.com/img/l/5/20405.v5.png",Dahlia
+http://onlineradiobox.com/json/id/dahlia/play
+#EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/124650.v4.png",Sunda Radio
+http://onlineradiobox.com/json/id/sunda/play
+#EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.onlineradiobox.com/img/l/7/19177.v12.png",Imelda
+http://onlineradiobox.com/json/id/imelda/play
+#EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.onlineradiobox.com/img/l/2/91532.v2.png",Swara Semarang
+http://onlineradiobox.com/json/id/swarasemarang/play
+#EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.onlineradiobox.com/img/l/6/19016.v7.png",Gajah Mada
+http://onlineradiobox.com/json/id/gajahmada/play
+#EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.onlineradiobox.com/img/l/2/19032.v7.png",Radio Cakra
+http://onlineradiobox.com/json/id/cakrabandung/play
+#EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.onlineradiobox.com/img/l/7/71837.v19.png",Radio CMN
+http://onlineradiobox.com/json/id/coolmusicnow/play
+#EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.onlineradiobox.com/img/l/9/75979.v7.png",RMK Radio
+http://onlineradiobox.com/json/id/masakini/play
+#EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.onlineradiobox.com/img/l/9/91579.v5.png",Elshinta
+http://onlineradiobox.com/json/id/elshinta/play
 
+#EXTINF:-1 group-title="World" tvg-logo="https://i.imgur.com/r5Ip3P0.png",Horse and Country
+https://hncfree-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="World" tvg-logo="https://i.imgur.com/gKNP2Gd.png",Insight TV
+https://insighttv-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="World" tvg-logo="https://i.imgur.com/iVw55kC.png",Introuble TV
+https://introuble-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="World" tvg-logo="https://i.imgur.com/VSiG39E.png",Inwild TV
+https://inwild-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="World" tvg-logo="https://i.imgur.com/d3LshRd.png",Inwonder TV
+https://inwonder-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="World" tvg-logo="https://i.imgur.com/mcUDAhZ.png",Outdoor Channel
+https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="World" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/75890.v10.png",NAGASWARA HOT 1000
+https://devds.site/api/youlive.m3u8?v=NYoNORroe3o
+#EXTINF:-1 group-title="World" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/75890.v10.png",NAGASWARA DANCEDHUT
+https://devds.site/api/youlive.m3u8?v=Gvfr_OoTp1E
+#EXTINF:-1 group-title="World" tvg-logo="https://cdn.onlineradiobox.com/img/l/9/75889.v9.png",NAGASWARA POP
+https://devds.site/api/youlive.m3u8?v=Is03gZsBeq0
+#EXTINF:-1 group-title="World" tvg-logo="https://i.imgur.com/KOkWP6i.jpg",Real Stories
+https://lds-realstories-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="World" tvg-logo="https://i.imgur.com/RnzWT9C.jpg",Rialto
+https://rialto-rialto-samsungaustralia.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="World" tvg-logo="https://i.imgur.com/weNdD7r.png",Smithsonian Channel
+https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="World" tvg-logo="https://i.imgur.com/yuRa9lM.png",Tastemade AU
+https://tmint-aus-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="World" tvg-logo="https://i.imgur.com/9JTMh3F.jpg",Timeline AU
+https://lds-timeline-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="World" tvg-logo="https://i.imgur.com/Rb3OrsM.png",Trace Sport Stars AU
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="World" tvg-logo="https://i.imgur.com/protQzs.png",Trace Urban AU
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="World" tvg-logo="https://i.imgur.com/1wYnA2i.jpg",Zoo Moo 2
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="World" tvg-logo="https://i.imgur.com/d3LshRd.png",Inwonder 2 TV
+https://lds-wonder-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="World" tvg-logo="https://i.imgur.com/aqMhht6.png",Clubbing TV AU
+https://clubbingtv-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="World",SMITHSONIAN TV
+https://smithsonianaus-samsungau.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 group-title="World",XPLORE
+https://xplore-roku.amagi.tv/playlist1080-p.m3u8
+#EXTINF:-1 group-title="World" tvg-logo="https://i.imgur.com/DTXQ3Pc.png",Moviesphere Free
+https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="World" tvg-logo="https://i.imgur.com/WyHp7Wa.jpg",Comedy Channel (1080p)
+https://uksono1-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="World" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmXDgkRevihFD0fthbSAjzEirtJwwi-dItlw&usqp=CAU",My Movie Time
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="World",ADVENTURE SPORTS TV
+https://giz.poppo.tv/channellivev3/live/master2800000.m3u8;session=275
+#EXTINF:-1 group-title="World" tvg-logo="https://www.clubbingtv.com/wp-content/uploads/2019/11/Clubbing_TV_logoWhiteCircle_50pc_Black220.png",ClubbingTV HD
+https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="World" tvg-logo="https://business.insight.tv/wp-content/uploads/2020/12/INWILD.png",InWild HD
+https://inwild-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="World" tvg-logo="https://business.insight.tv/wp-content/uploads/2020/12/INTROUBLE.png",InTrouble FHD
+https://introuble-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="World" tvg-logo="https://business.insight.tv/wp-content/uploads/2020/12/INWONDER.png",InWonder HD
+https://inwonder-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="World",Inwonder TV
+https://inwonder-samsung-de.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="World",Motorvision TV (UK)
+https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-motorvisiontv/CDN/master.m3u8
+#EXTINF:-1 group-title="World",Sofy TV
+https://sofy-ger-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="World",Tastemade
+https://tastemade-de-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="World",Timeline (UK)
+https://timeline-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="World",True Stories (UK)
+https://realstories-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="World",XITE
+https://xite-samsung-de.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="World",Young Hollywood (US)
+https://younghollywood-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="World" tvg-logo="https://i.imgur.com/1Mtx9mY.png?v=1.1.1.1",CNN Indonesia HD
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+#EXTINF:-1 group-title="World",BOOGELE BOOLYWOOD
+http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
+#EXTINF:-1 group-title="World",CNBN
+http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w528900641_b384000_sleng.m3u8
+#EXTINF:-1 group-title="World",CTV BANTEN
+http://103.23.201.170:1935/live/livestream/playlist.m3u8
+#EXTINF:-1 group-title="World",ELSHINTA
+http://210.210.155.35/session/a3a86eca-319a-11e9-ba6a-b82a72d63267/qwr9ew/s/s10/02.m3u8
+#EXTINF:-1 group-title="World",Euro Indie Music Chart
+http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
+#EXTINF:-1 group-title="World",Fashion TV Midnite Secrets
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="World",Filmrise Crime
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_2500000/index.m3u8
+#EXTINF:-1 group-title="World",METRO TV
+https://cdn-telkomsel-01.akamaized.net:443/Content/DASH/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/manifest.mpd
+#EXTINF:-1 group-title="World",Phoenix
+http://210.210.155.35/x6bnqe/s/s80/index2.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="World",TVO KIDS
+https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
+#EXTINF:-1 group-title="World",3 ThaiPBS
+https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+#EXTINF:-1 group-title="World",32 Thairath
+https://live.thairath.co.th/trtv2/playlist.m3u8
+#EXTINF:-1 group-title="World",4 ALTV
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
+#EXTINF:-1 group-title="World",Adventure sport
+https://dai2.xumo.com/xumocdn/adventuresportsnetworkEdhorizki-PPIIPTV/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8
+#EXTINF:-1 group-title="World",ANTV
+http://chostv.mobie.in/files/iptv/antv.m3u8
+#EXTINF:-1 group-title="World",Awani
+https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/master.m3u8
+#EXTINF:-1 group-title="World",BeritaHK
+http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+#EXTINF:-1 group-title="World",CombatGo HD
+https://dai.google.com/linear/hls/event/gaDje967RoSDD5llid2OBA/master.m3u8
+#EXTINF:-1 group-title="World",DAAI TV TAIWAN
+https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+#EXTINF:-1 group-title="World",Dubai Sport 2
+http://dmitwlfr.cdn.mangomolo.com:80/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="World",Dubai Sport 3 FHD
+http://dmitwlfr.cdn.mangomolo.com:80/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="World",Dubai Sports 2 HD
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="World",Dubai Sports 3 HD
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="World",Eurosport
+http://a3569457567-zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/playlist.m3u8?checkedby=&offset=-147600&useseq=t&version=2
+#EXTINF:-1 group-title="World",Fox Sports News
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8?checkedby
+#EXTINF:-1 group-title="World",GOODtv9(setAuto)
+http://live.streamingfast.net/osmflivech9.m3u8
+#EXTINF:-1 group-title="World",INDOSIAR HD
+http://chostv.mobie.in/files/iptv/indosiar.m3u8
+#EXTINF:-1 group-title="World",NASA TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+#EXTINF:-1 group-title="World",Red Bull TV (540p)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 group-title="World",Red Bull TV (720p)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
+#EXTINF:-1 group-title="World",Russian Extreme Ultra HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA_HLS/bw6000000/variant.m3u8
+#EXTINF:-1 group-title="World",TDM SPORT MACAU
+http://live4.tdm.com.mo:80/ch4/_definst_/sport_ch4.live/playlist.m3u8
+#EXTINF:-1 group-title="World",TechStorm
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(abe4ead2-1a88-4330-9f41-382fcf94bba2)/manifest.mpd
+#EXTINF:-1 group-title="World",TVRI BUDAYA
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
+#EXTINF:-1 group-title="World",TVRI HD
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
+#EXTINF:-1 group-title="World",Viasat Sport East
+https://persik.tv/stream/3602/287583/10249.m3u8
+#EXTINF:-1 group-title="World",Конный Мир
+http://cdn-01.bonus-tv.ru:80/konnyimir/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="World",МАТЧ!
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2
+#EXTINF:-1 group-title="World",Старт HD
+http://live03-cdn.tv.ti.ru/dtv/id1303_NBN_SG--StartHD_wflite/04/plst.m3u8
+#EXTINF:-1 group-title="World",鐐规帉璐㈢粡
+http://cclive2.aniu.tv/live/anzb.m3u8
+#EXTINF:-1 group-title="World" tvg-logo="https://www.linkpicture.com/q/126E40A2-0107-498D-A518-E3DAB805FE76.png",GAME
+https://live-content.xumo.com/170/content/XM00UVIHRILCPE/21427120/4.m3u8
+#EXTINF:-1 group-title="World",K POP TV
+https://m3u-editor.com/serve/c1379450-7f43-11ec-9c8c-dbddc6310830/486281104
+#EXTINF:-1 group-title="World",RETROPLUS TV
+https://m3u-editor.com/serve/c1379450-7f43-11ec-9c8c-dbddc6310830/486281105
+#EXTINF:-1 group-title="World",[untitled]
+https://m3u-editor.com/serve/c1379450-7f43-11ec-9c8c-dbddc6310830/486281402
+#EXTINF:-1 group-title="World",DUBAI SPORT2
+https://m3u-editor.com/serve/c1379450-7f43-11ec-9c8c-dbddc6310830/486281176
+#EXTINF:-1 group-title="World",DUBAI SPORT3
+https://m3u-editor.com/serve/c1379450-7f43-11ec-9c8c-dbddc6310830/486281177
+#EXTINF:-1 group-title="World",Astrakhan.ru Sport HD
+https://m3u-editor.com/serve/c1379450-7f43-11ec-9c8c-dbddc6310830/486281233
+#EXTINF:-1 group-title="World",Astrakhan.ru Sport HD
+https://m3u-editor.com/serve/c1379450-7f43-11ec-9c8c-dbddc6310830/486281234
+#EXTINF:-1 group-title="World",Xing Kong TV Back
+https://m3u-editor.com/serve/c1379450-7f43-11ec-9c8c-dbddc6310830/486281328
+#EXTINF:-1 group-title="World",NASA TV
+https://m3u-editor.com/serve/c1379450-7f43-11ec-9c8c-dbddc6310830/486281441
+#EXTINF:-1 group-title="World",Ausbiz TV
+https://m3u-editor.com/serve/c1379450-7f43-11ec-9c8c-dbddc6310830/486281696
+#EXTINF:-1 group-title="World",Australia Channel
+https://m3u-editor.com/serve/c1379450-7f43-11ec-9c8c-dbddc6310830/486281697
+#EXTINF:-1 group-title="World",Bloomberg Australia
+https://m3u-editor.com/serve/c1379450-7f43-11ec-9c8c-dbddc6310830/486281698
+#EXTINF:-1 group-title="World",Bloomberg TV Australia
+https://m3u-editor.com/serve/c1379450-7f43-11ec-9c8c-dbddc6310830/486281699
+#EXTINF:-1 group-title="World",Fox Sports News
+https://m3u-editor.com/serve/c1379450-7f43-11ec-9c8c-dbddc6310830/486281702
+#EXTINF:-1 group-title="World",Sky News Extra 1
+https://m3u-editor.com/serve/c1379450-7f43-11ec-9c8c-dbddc6310830/486281706
+#EXTINF:-1 group-title="World",Sky News Extra 2
+https://m3u-editor.com/serve/c1379450-7f43-11ec-9c8c-dbddc6310830/486281707
+#EXTINF:-1 group-title="World",Sky News Extra 3
+https://m3u-editor.com/serve/c1379450-7f43-11ec-9c8c-dbddc6310830/486281708
+#EXTINF:-1 group-title="World",Arirang (1080p)
+https://m3u-editor.com/serve/c1379450-7f43-11ec-9c8c-dbddc6310830/486281711
+#EXTINF:-1 group-title="World",Arirang HD (1080p)
+https://m3u-editor.com/serve/c1379450-7f43-11ec-9c8c-dbddc6310830/486281712
+#EXTINF:-1 group-title="World",BBS Buddhist Broadcasting (1080p)
+https://m3u-editor.com/serve/c1379450-7f43-11ec-9c8c-dbddc6310830/486281714
+#EXTINF:-1 group-title="World",EBS Kids (360p)
+https://m3u-editor.com/serve/c1379450-7f43-11ec-9c8c-dbddc6310830/486281719
+#EXTINF:-1 group-title="World",Fishing TV (288p)
+https://m3u-editor.com/serve/c1379450-7f43-11ec-9c8c-dbddc6310830/486281721
+#EXTINF:-1 group-title="World",Gugbang TV (404p)
+https://m3u-editor.com/serve/c1379450-7f43-11ec-9c8c-dbddc6310830/486281722
+#EXTINF:-1 group-title="World",Hallypop (1080p)
+https://m3u-editor.com/serve/c1379450-7f43-11ec-9c8c-dbddc6310830/486281723
+#EXTINF:-1 group-title="World",MTN
+https://m3u-editor.com/serve/c1379450-7f43-11ec-9c8c-dbddc6310830/486281728
+#EXTINF:-1 group-title="World",NBS Korea Agricultural Broadcasting (720p)
+https://m3u-editor.com/serve/c1379450-7f43-11ec-9c8c-dbddc6310830/486281730
+#EXTINF:-1 group-title="World",SBS KNN (450p)
+https://m3u-editor.com/serve/c1379450-7f43-11ec-9c8c-dbddc6310830/486281732
+#EXTINF:-1 group-title="World",TVWorkNet (480p)
+https://m3u-editor.com/serve/c1379450-7f43-11ec-9c8c-dbddc6310830/486281736
+#EXTINF:-1 group-title="World",KBCTV
+https://m3u-editor.com/serve/c1379450-7f43-11ec-9c8c-dbddc6310830/486281743
+#EXTINF:-1 group-title="World",TJB SBS
+https://m3u-editor.com/serve/c1379450-7f43-11ec-9c8c-dbddc6310830/486281744
+#EXTINF:-1 group-title="World",MTN
+https://m3u-editor.com/serve/c1379450-7f43-11ec-9c8c-dbddc6310830/486281745
+#EXTINF:-1 group-title="World",WORKTV
+https://m3u-editor.com/serve/c1379450-7f43-11ec-9c8c-dbddc6310830/486281747
+#EXTINF:-1 group-title="World",MITV
+https://m3u-editor.com/serve/c1379450-7f43-11ec-9c8c-dbddc6310830/486281748
+#EXTINF:-1 group-title="World",TVWORK NET
+https://m3u-editor.com/serve/c1379450-7f43-11ec-9c8c-dbddc6310830/486281758
+#EXTINF:-1 group-title="World",KienGiangTV1
+https://m3u-editor.com/serve/c1379450-7f43-11ec-9c8c-dbddc6310830/486281764
+#EXTINF:-1 group-title="World",BRT (360p)
+https://m3u-editor.com/serve/c1379450-7f43-11ec-9c8c-dbddc6310830/486281772
+#EXTINF:-1 group-title="World",Cà Mau TV
+https://m3u-editor.com/serve/c1379450-7f43-11ec-9c8c-dbddc6310830/486281774
+#EXTINF:-1 group-title="World",Da Nang TV1
+https://m3u-editor.com/serve/c1379450-7f43-11ec-9c8c-dbddc6310830/486281775
+#EXTINF:-1 group-title="World",Da Nang TV2
+https://m3u-editor.com/serve/c1379450-7f43-11ec-9c8c-dbddc6310830/486281777
+#EXTINF:-1 group-title="World",HBTV
+https://m3u-editor.com/serve/c1379450-7f43-11ec-9c8c-dbddc6310830/486281778
+#EXTINF:-1 group-title="World",KienGiangTV
+https://m3u-editor.com/serve/c1379450-7f43-11ec-9c8c-dbddc6310830/486281780
+#EXTINF:-1 group-title="World",KienGiangTV1
+https://m3u-editor.com/serve/c1379450-7f43-11ec-9c8c-dbddc6310830/486281782
+#EXTINF:-1 group-title="World",QRT
+https://m3u-editor.com/serve/c1379450-7f43-11ec-9c8c-dbddc6310830/486281788
+#EXTINF:-1 group-title="World",Qu?c H?i (720p)
+https://m3u-editor.com/serve/c1379450-7f43-11ec-9c8c-dbddc6310830/486281790
+#EXTINF:-1 group-title="World",Tien Giang (720p)
+https://m3u-editor.com/serve/c1379450-7f43-11ec-9c8c-dbddc6310830/486281791
+#EXTINF:-1 group-title="World",TV1
+https://m3u-editor.com/serve/c1379450-7f43-11ec-9c8c-dbddc6310830/486281822
+#EXTINF:-1 group-title="World",TV2
+https://m3u-editor.com/serve/c1379450-7f43-11ec-9c8c-dbddc6310830/486281823
+#EXTINF:-1 group-title="World",CMT
+https://m3u-editor.com/serve/c1379450-7f43-11ec-9c8c-dbddc6310830/486281826
+#EXTINF:-1 group-title="World",Court TV
+https://m3u-editor.com/serve/c1379450-7f43-11ec-9c8c-dbddc6310830/486281827
+#EXTINF:-1 group-title="World",CBSN Los Angeles
+https://m3u-editor.com/serve/c1379450-7f43-11ec-9c8c-dbddc6310830/486281829
 #EXTINF:-1 group-title="World",Kabillion
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxkabillion/CDN/1280x720_5000000/index.m3u8
 #EXTINF:-1 group-title="World",Channel NewsAsia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-#EXTINF:-1 group-title="World",Live DanceDhut Dangdut Malaysia Indonesia
-https://api.roll.my.id/manifest/?key=yt&id=E7nbg7UVjxU
-#EXTINF:-1 group-title="World",Live Pop Malaysia Indonesia
-https://api.roll.my.id/manifest/?key=yt&id=Is03gZsBeq0
-#EXTINF:-1 group-title="World",Live DanceDhut Dangdut Malaysia Indonesia
-https://api.roll.my.id/manifest/?key=yt&id=E7nbg7UVjxU
-#EXTINF:-1 group-title="World",Live Dance Remix DJ
-https://api.roll.my.id/manifest/?key=yt&id=k8rWXzAdnOw
 #EXTINF:-1 group-title="World",Arirang TV
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
-#EXTINF:-1 group-title="World",Bloomberg
-https://cdn-videos.akamaized.net/btv/desktop/fastly/asia/live/primary.m3u8
 #EXTINF:-1 group-title="World",CGTN
-https://live.cgtn.com/1000/prog_index.m3u8 
-#EXTINF:-1 group-title="World",DW
-https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
-#EXTINF:-1 group-title="World",France24
-http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
-#EXTINF:-1 group-title="World",RT
-https://rt-usa.secure.footprint.net/1105_2500Kb.m3u8
-#EXTINF:-1 group-title="World",CGTN Documentary
-https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+https://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 group-title="World",RedBull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 group-title="World",BBC NEWS
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
-#EXTINF:-1 group-title="World",NEWS NET
-http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="World",CBS NEWS
-https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8?iu=/8264/vaw-can/mobile_web/cbsnews_mobile
-#EXTINF:-1 group-title="World",PLALESTINE TODAY
-http://live.paltoday.tv:1935/paltv/live/gmswf.m3u8
-#EXTINF:-1 group-title="World",ARIRANG
-http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 group-title="World",BLOOMBERG
-https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
-#EXTINF:-1 group-title="World",NEWSMAX
-https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-#EXTINF:-1 group-title="World",7News Boston (WHDH)
-https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestream/master.m3u8
-#EXTINF:-1 group-title="World",92 News UK
-https://ch.iptvmate.net/0b691619c2efd9b3b84c8b37cf9e4fa3.m3u8
-#EXTINF:-1 group-title="World",ABC News (USA)
-http://abclive2-lh.akamaihd.net/i/abc_live11@423404/index_4000_av-p.m3u8
-#EXTINF:-1 group-title="World",ABC News HD
-https://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8
-#EXTINF:-1 group-title="World",Akit TV
-http://akittv-live.ercdn.net/akittv/akittv.m3u8
-#EXTINF:-1 group-title="World",AL Hurra
-https://ch.iptvmate.net/4b2ba0c853391533e32952733313c282.m3u8
 #EXTINF:-1 group-title="World",Alsharqiya News
 https://ch.iptvmate.net/cc7edebc6423a6b5ece0bb901f5c16f8.m3u8
 #EXTINF:-1 group-title="World",Ariana News
 https://ch.iptvmate.net/e9538b47b59d4be1ced8f1bc42e440d5.m3u8
-#EXTINF:-1 group-title="World",Ariana TV
-https://ch.iptvmate.net/e49dc251eae72bb3850adcc34f886cb3.m3u8
 #EXTINF:-1 group-title="World",Arirang TV
 http://cdn-01.bonus-tv.ru:8080/arirang_edge/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="World",Atameken
-http://sc.id-tv.kz/Atameken_34_35.m3u8
-#EXTINF:-1 group-title="World",Atameken Business
-https://ch.iptvmate.net/43e75982f545cbe5d4c34794a32e34da.m3u8
-#EXTINF:-1 group-title="World",BBC World News (EN)
-http://51.52.156.22:8888/http/004
-#EXTINF:-1 group-title="World",BFM Paris
-https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_KB@429747/master.m3u8
-#EXTINF:-1 group-title="World",Bloomberg TV HD
-http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
-#EXTINF:-1 group-title="World",Bloomberg (EN)
-https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-700-1_live.m3u8
-#EXTINF:-1 group-title="World",Channel News Asia
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 group-title="World",CBSN
-https://cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master_2200.m3u8
-#EXTINF:-1 group-title="World",CBSN HD
-https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master.m3u8
-#EXTINF:-1 group-title="World",CNBC Arabia
-https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
-#EXTINF:-1 group-title="World",DW TV English
-http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8
-#EXTINF:-1 group-title="World",NBC
-https://ch.iptvmate.net/ddc12779530e41ef044a851538be1f45.m3u8
-#EXTINF:-1 group-title="World",NBC 4 News (Washington DC)
-https://wrclive-f.akamaihd.net/i/wrcb1_1@46880/master.m3u8
-#EXTINF:-1 group-title="World",NBC 5 News (Chicago)
-http://wmaqlive-f.akamaihd.net/i/wmaqa1_1@22923/master.m3u8
-#EXTINF:-1 group-title="World",News 12 (Long Island - Traffic)
-https://news18haryana-lh.akamaihd.net:443/i/n18punjabhimhar_1@349009/index_3_av-p.m3u8
-#EXTINF:-1 group-title="World",News 12 (Westchester)
-https://news18haryana-lh.akamaihd.net:443/i/n18punjabhimhar_1@349009/index_5_av-p.m3u8
-#EXTINF:-1 group-title="World",News 24 Balkan
-http://tv.balkanweb.com/news24/livestream/playlist.m3u8
-#EXTINF:-1 group-title="World",News 24 Japan
-http://www.news24.jp/livestream/index.m3u8
-#EXTINF:-1 group-title="World",News Center 7 (Ohio)
-http://svc-lvanvato-cxtv-whio.cmgvideo.com/whio/2596k/index.m3u8
-#EXTINF:-1 group-title="World",News18 Haryana
-https://etv-haryana.akamaized.net/i/etv_haryana_live_1@349009/index_1_av-b.m3u8
-#EXTINF:-1 group-title="World",NewsNet
-http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8
-#EXTINF:-1 group-title="World",RT America
-https://ch.iptvmate.net/67408d67e1ed1191a07d5b9007f3afce.m3u8
-#EXTINF:-1 group-title="World",RT America HD
-http://rt-usa.secure.footprint.net/1105.m3u8
-#EXTINF:-1 group-title="World",RT Doc
-http://rt-doc.secure.footprint.net/1101_2500Kb.m3u8
 #EXTINF:-1 group-title="World",RT Doc HD
 http://188.113.190.12/193/video.m3u8
-#EXTINF:-1 group-title="World",RT Espanol
-http://rt-esp.secure.footprint.net/1102_2500Kb.m3u8
-#EXTINF:-1 group-title="World",RT France
-https://ch.iptvmate.net/73aae82bd08a78d3927729ee5db7d77d.m3u8
-#EXTINF:-1 group-title="World",RT News HD
-https://rt-news.secure.footprint.net/1103.m3u8
-#EXTINF:-1 group-title="World",RT UK
-https://ch.iptvmate.net/a674a12a716f562b740b78abc06b5dbe.m3u8
-#EXTINF:-1 group-title="World",RT US
-https://rt-usa.secure.footprint.net/1105.m3u8
-#EXTINF:-1 group-title="World",RTE News
-https://live.rte.ie/live/a/channel3/news.isml/news-audio_128k=128000-video=4499968.m3u8
 #EXTINF:-1 group-title="World",Rai News 24
 https://ch.iptvmate.net/73cb6a412cd4eaf2339e00a9d5ba8076.m3u8
-#EXTINF:-1 group-title="World",Russia Today (Arabic)
-http://rt-lh.akamaihd.net/i/ch_03@325607/index_720p_av-b.m3u8
-#EXTINF:-1 group-title="World",Russia Today HD (Espanol)
-https://ch.iptvmate.net/d11c7fd4ef08895d9f14a1327cd01f0b.m3u8
-#EXTINF:-1 group-title="World",Russia Today HD (France)
-http://rt-france.secure.footprint.net/1107_2500Kb.m3u8
-#EXTINF:-1 group-title="World",SKY TG24
-http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/playlist.m3u8
-#EXTINF:-1 group-title="World",Syria News
-http://www.elahmad.com/tv/m3u8/syriatv.m3u8
-#EXTINF:-1 group-title="World",The Weather Channel (USA)
-http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
-#EXTINF:-1 group-title="World",Caspian News (KZ)
-https://sc.id-tv.kz/CaspianNews_36_37.m3u8
-#EXTINF:-1 group-title="World",CBN News
-http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
-#EXTINF:-1 group-title="World",360/СИН (Сургут)
-http://video1.in-news.ru/360/index.m3u8
-#EXTINF:-1 group-title="World",100% News
-http://193.232.148.43:8000/a35
-#EXTINF:-1 group-title="World",100% News HD
-http://62.113.210.250/medienasa-live/_definst_/mp4:RFH_high/chunklist_w455064056.m3u8
-#EXTINF:-1 group-title="World",24 Украина
-http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist.m3u8
-#EXTINF:-1 group-title="World",3ABN Kids
-https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
 #EXTINF:-1 group-title="World",ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 group-title="World",Animal Planet
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:-1 group-title="World",ATG
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
-#EXTINF:-1 group-title="World",Australia Channel
-https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 #EXTINF:-1 group-title="World",Bloomberg Asia
 https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
-#EXTINF:-1 group-title="World",Bloomberg HT
-https://ciner.daioncdn.net/bloomberght/bloomberght_720p.m3u8
 #EXTINF:-1 group-title="World",Bloomberg US
 https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
-#EXTINF:-1 group-title="World",Bollywood TV
-http://a.jsrdn.com/broadcast/d5b45/+0000/high/c.m3u8
-#EXTINF:-1 group-title="World",CCTV 4 HD
-http://ivi.bupt.edu.cn/hls/cctv4hd.m3u8
-#EXTINF:-1 group-title="World",CGTN
-https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
-#EXTINF:-1 group-title="World",CGTN Español
-https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
-#EXTINF:-1 group-title="World",CGTN Français
-https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
-#EXTINF:-1 group-title="World",Channel S USA
-https://a.jsrdn.com/broadcast/22679_24MrQma9TX/-0800/c.m3u8
-#EXTINF:-1 group-title="World",Cheddar
-https://live.chdrstatic.com/cheddar/index.m3u8
-#EXTINF:-1 group-title="World",Cheddar Big News
-https://live.chdrstatic.com/cbn/index.m3u8
-#EXTINF:-1 group-title="World",Crime & Investigation
-http://203.154.243.31:15001
-#EXTINF:-1 group-title="World",Deshi TV
-http://72.139.72.18:1935/live/myStream/playlist.m3u8
-#EXTINF:-1 group-title="World",Filmrise Classics
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/648x432_5000000/index.m3u8
-#EXTINF:-1 group-title="World",Filmrise Crime
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_2500000/index.m3u8
-#EXTINF:-1 group-title="World",GTN Россия
-https://liveru.cgtn.com/1000r/prog_index.m3u8
-#EXTINF:-1 group-title="World",Monarch TV
-https://a.jsrdn.com/broadcast/0c9a09c94c/+0000/c.m3u8
-#EXTINF:-1 group-title="World",Movies Kingdom
-https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
-#EXTINF:-1 group-title="World",NDTV 24X7
-https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
-#EXTINF:-1 group-title="World",Newsmax
-https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_1080.m3u8
-#EXTINF:-1 group-title="World",Outside TV
-https://a.jsrdn.com/broadcast/3gT64sH/c.m3u8
-#EXTINF:-1 group-title="World",People TV
-https://a.jsrdn.com/broadcast/b5d2k0x/playlist720p.m3u8
-#EXTINF:-1 group-title="World",Racing Vic
-https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
 #EXTINF:-1 group-title="World",RETRO TV
 http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:-1 group-title="World",RT Español
-http://rt-esp.secure.footprint.net:80/1102_2500Kb.m3u8
-#EXTINF:-1 group-title="World",RT Français
-http://rt-france.secure.footprint.net:80/1107_2500Kb.m3u8
-#EXTINF:-1 group-title="World",Screamfest
-https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8
-#EXTINF:-1 group-title="World",SEC Network
-https://gma2.blab.email/sec.m3u8
-#EXTINF:-1 group-title="World",Shemaroo Bollywood Premier
-https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunklist_1920x1080_cf.m3u8
-#EXTINF:-1 group-title="World",Shemaroo Hindi
-https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1920x1080_cf.m3u8
-#EXTINF:-1 group-title="World",Sky Folk TV
-http://eu.live.skyfolk.mk/live.m3u8
-#EXTINF:-1 group-title="World",Sky Folk TV
-http://skyfolk.mk/live.m3u8
-#EXTINF:-1 group-title="World",Telesur
-http://d2ajt1gpdtnw25.cloudfront.net:80/mbliveMain/hd/playlist.m3u8
-#EXTINF:-1 group-title="World",Telesur English
-https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8
-#EXTINF:-1 group-title="World",TMZ
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8
-#EXTINF:-1 group-title="World",TRT World
-https://api.trtworld.com/livestream/v1/WcM3Oa2LHD9iUjWDSRUI335NkMWVTUV351H56dqC/master.m3u8
-#EXTINF:-1 group-title="World",Unknown 38
-http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
-#EXTINF:-1 group-title="World",V2BEATHD
-http://de1se01.v2beat.live/playlist.m3u8
-#EXTINF:-1 group-title="World",vtv1
-http://awscf-live-global.vtvgo.vn/live/_definst_/vtv1-high.m3u8
-#EXTINF:-1 group-title="World",vtv2
-http://awscf-live-global.vtvgo.vn/live/_definst_/vtv2-high.m3u8
-#EXTINF:-1 group-title="World",vtv4
-http://awscf-live-global.vtvgo.vn/live/_definst_/vtv4-high.m3u8
-#EXTINF:-1 group-title="World",vtv5
-http://awscf-live-global.vtvgo.vn/live/_definst_/vtv5-high.m3u8
-#EXTINF:-1 group-title="World",vtv7
-http://awscf-live-global.vtvgo.vn/live/_definst_/vtv7-high.m3u8
-#EXTINF:-1 group-title="World",vtv8
-http://awscf-live-global.vtvgo.vn/live/_definst_/vtv8-high.m3u8
-#EXTINF:-1 group-title="World",Weather Channel
-https://bcliveunivsecure-lh.akamaihd.net/i/twn_1@631672/master.m3u8
-#EXTINF:-1 group-title="World",WeatherNation TV
-http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u
-#EXTINF:-1 group-title="World",World of Free Sports
-https://a.jsrdn.com/broadcast/22723/+0000/c.m3u8
