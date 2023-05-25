@@ -1,106 +1,71 @@
-#EXTINF:-1 group-title="Radio",Hitz FM
-http://astro1.rastream.com/hitz?type=mp3
-#EXTINF:-1 group-title="Radio",ERA FM
-http://astro2.rastream.com/era
-#EXTINF:-1 group-title="Radio",Hot FM 
-http://mediaprima.rastream.com/mediaprima-hotfm.android
-#EXTINF:-1 group-title="Radio",Ceria FM
-http://172.83.43.162:8080/stream/;
-#EXTINF:-1 group-title="Radio",NAGASWARA FM RADIOTEMEN
-https://live.nagaswarafm.com:9900/stream
-#EXTINF:-1 group-title="Radio",Kool FM
-http://mediaprima.rastream.com/mediaprima-koolfm
-#EXTINF:-1 group-title="Radio",Loker Musik Indonesia
-https://stream.lokermusik.com:8420/lokermusik
-#EXTINF:-1 group-title="Radio",Lite FM
-http://astro1.rastream.com/lite?type=mp3
-#EXTINF:-1 group-title="Radio",NAGASWARA POP
-https://live.nagaswarafm.com:9100/nagaswarapop
-#EXTINF:-1 group-title="Radio",NAGASWARA DANCEDHUT
-https://live.nagaswarafm.com:9200/nagaswaradance
-#EXTINF:-1 group-title="Radio",Sinar FM
-http://astro2.rastream.com/sinar?type=mp3
-#EXTINF:-1 group-title="Radio",Mix FM
-http://astro2.rastream.com/mix?type=mp3
-#EXTINF:-1 group-title="Radio",Fly FM
-http://mediaprima.rastream.com/mediaprima-flyfm
-#EXTINF:-1 group-title="Radio",Best FM
-http://s8.voscast.com:8686/;stream1524468271750/1
-#EXTINF:-1 group-title="Radio",My FM
-http://astro1.rastream.com//myfm?type=mp3
-#EXTINF:-1 group-title="Radio",Melody FM
-http://astro3.rastream.com/melody?type=mp3
-#EXTINF:-1 group-title="Radio",Cats FM
-http://catsfm64.cspixel.com:7111/stream/;
-#EXTINF:-1 group-title="Radio",Siaraya FM
-http://starrfm.rastream.com/starrfm-suria
-#EXTINF:-1 group-title="Radio",Ria FM
-https://19183.live.streamtheworld.com/RIA897FMAAC.aac?dist=onlineradiobox
-#EXTINF:-1 group-title="Radio",Kristal FM
-http://202.152.73.2:801/kfm
-#EXTINF:-1 group-title="Radio",Sunda Radio
-https://sundaradio.com/live/sundaradio
-#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7004.jpg" group-title="Radio",Prambors
-http://onlineradiobox.com/json/id/prambors/play 
-#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7184.jpg" group-title="Radio",Ardan FM
-http://onlineradiobox.com/json/id/ardan/play
-#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7188.jpg" group-title="Radio",MGTRADIO
-http://onlineradiobox.com/json/id/mgt/play
-#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7166.jpg" group-title="Radio",Elshinta FM
-http://onlineradiobox.com/json/id/elshinta/play
-#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7057.jpg" group-title="Radio",I Radio
+#EXTM3U
+#EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.onlineradiobox.com/img/l/1/87511.v4.png",Prambors
+http://onlineradiobox.com/json/id/prambors/play
+#EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.onlineradiobox.com/img/l/9/18959.v9.png",I Radio
 http://onlineradiobox.com/json/id/ijakarta/play
-#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7055.jpg" group-title="Radio",Trax FM
-http://onlineradiobox.com/json/id/trax/play
-#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7056.jpg" group-title="Radio",Cosmopolitan FM
-http://onlineradiobox.com/json/id/cosmopolitan/play
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/8/19108.v6.png" group-title="Radio",V RADIO
-http://onlineradiobox.com/json/id/vjakarta/play
-#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7054.jpg" group-title="Radio",Brava FM
-http://onlineradiobox.com/json/id/brava/play
-#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7053.jpg" group-title="Radio",Hard Rock FM
-http://onlineradiobox.com/json/id/hardrockjakarta/play
-#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7130.jpg" group-title="Radio",Female FM
-http://onlineradiobox.com/json/id/female/play
-#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7092.jpg" group-title="Radio",Delta FM
-http://onlineradiobox.com/json/id/deltafm/play
-#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7091.jpg" group-title="Radio",Bahana FM
-http://onlineradiobox.com/json/id/bahana/play
-#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7218.jpg" group-title="Radio",Sushi Radio
-http://onlineradiobox.com/json/id/sushi/play
-#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7169.jpg" group-title="Radio",Elgangga FM
-http://onlineradiobox.com/json/id/elgangga/play
-#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7216.jpg" group-title="Radio",Geronimo FM
-http://onlineradiobox.com/json/id/geronimo/play
-#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7242.jpg" group-title="Radio",Dahlia FM
-http://onlineradiobox.com/json/id/dahlia/play
-#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7248.jpg" group-title="Radio",Nagaswara Radio
-http://onlineradiobox.com/json/id/nagaswarabogor/play
-#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7248.jpg" group-title="Radio",Nagaswara Pop
-http://onlineradiobox.com/json/id/nagaswarapop/play
-#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7248.jpg" group-title="Radio",Nagaswara DanceDhut
-http://onlineradiobox.com/json/id/nagaswaradancedhut/play
-#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7281.jpg" group-title="Radio",Imelda FM
-http://onlineradiobox.com/json/id/imelda/play
-#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7283.jpg" group-title="Radio",Swara Semarang
-http://onlineradiobox.com/json/id/swarasemarang/play
-#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7284.jpg" group-title="Radio",Gajah Mada FM
-http://onlineradiobox.com/json/id/gajahmada/play
-#EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7297.jpg" group-title="Radio",Radio Cakra
-http://onlineradiobox.com/json/id/cakrabandung/play
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/0cbwjhiv843lila/Gen_FM.png?dl=1" group-title="Radio",Gen FM 103.1
-http://onlineradiobox.com/json/id/gensurabaya/play
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/klyuqqlwew3kzb4/Hot_fm_jkt.png?dl=1" group-title="Radio",HOT FM
+#EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.onlineradiobox.com/img/l/7/18827.v7.png",Ardan
+http://onlineradiobox.com/json/id/ardan/play
+#EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.onlineradiobox.com/img/l/6/76886.v18.png",HOT
 http://onlineradiobox.com/json/id/hot/play
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/fqdznsunlxtcgzs/JAKFM.png?dl=1" group-title="Radio",JAK FM
-http://onlineradiobox.com/json/id/101jakfm/play
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/6/91316.v14.png" group-title="Radio",SLOW FM
-http://onlineradiobox.com/json/id/slow/play
-#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/0/106040.v5.png" group-title="Radio",KIS ROCK
-http://onlineradiobox.com/json/id/kisrock/play
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/qq9n8ojtec3m9fa/KIS-95.1-FM.jpg?dl=1" group-title="Radio",KIS FM
+#EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.onlineradiobox.com/img/l/6/18826.v32.png",KIS
 http://onlineradiobox.com/json/id/kis/play
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/ehy1c45c2l8z543/MOSTRADIO.png?dl=1" group-title="Radio",MOST RADIO
+#EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.onlineradiobox.com/img/l/7/73707.v89.png1",MOST
 http://onlineradiobox.com/json/id/most/play
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/5g6wgbq9xwgsrw8/MUSTANG.png?dl=1" group-title="Radio",MUSTANG
+#EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.onlineradiobox.com/img/l/9/18879.v28.png",MUSTANG
 http://onlineradiobox.com/json/id/mustang/play
+#EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.onlineradiobox.com/img/l/2/19152.v21.png",NAGASWARA Radio
+http://onlineradiobox.com/json/id/nagaswarabogor/play
+#EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.onlineradiobox.com/img/l/9/75889.v9.png",NAGASWARA Pop
+http://onlineradiobox.com/json/id/nagaswarapop/play
+#EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/75890.v10.png",NAGASWARA DanceDhut
+http://onlineradiobox.com/json/id/nagaswaradancedhut/play
+#EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.onlineradiobox.com/img/l/9/75039.v9.png",Loker Musik Indonesia
+http://onlineradiobox.com/json/id/loker/play
+#EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.onlineradiobox.com/img/l/5/19705.v32.png",JAK
+http://onlineradiobox.com/json/id/101jakfm/play
+#EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.onlineradiobox.com/img/l/6/91316.v14.png",SLOW
+http://onlineradiobox.com/json/id/slow/play
+#EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/106040.v5.png",KIS ROCK
+http://onlineradiobox.com/json/id/kisrock/play
+#EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.onlineradiobox.com/img/l/6/19506.v10.png",MGT
+http://onlineradiobox.com/json/id/mgt/play
+#EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.onlineradiobox.com/img/l/6/18806.v11.png",Trax
+http://onlineradiobox.com/json/id/trax/play
+#EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.onlineradiobox.com/img/l/8/19028.v12.png",Cosmopolitan
+http://onlineradiobox.com/json/id/cosmopolitan/play
+#EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.onlineradiobox.com/img/l/8/19108.v6.png",V Radio
+http://onlineradiobox.com/json/id/vjakarta/play
+#EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.onlineradiobox.com/img/l/1/18831.v22.png",Brava
+http://onlineradiobox.com/json/id/brava/play
+#EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/18880.v12.png",Hard Rock
+http://onlineradiobox.com/json/id/hardrockjakarta/play
+#EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.onlineradiobox.com/img/l/6/60996.v12.png",Female
+http://onlineradiobox.com/json/id/female/play
+#EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.onlineradiobox.com/img/l/8/58058.v24.png",Delta
+http://onlineradiobox.com/json/id/deltafm/play
+#EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.onlineradiobox.com/img/l/8/19708.v17.png",Bahana
+http://onlineradiobox.com/json/id/bahana/play
+#EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.onlineradiobox.com/img/l/6/85966.v6.png",Sushi Radio
+http://onlineradiobox.com/json/id/sushi/play
+#EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/77170.v6.png",Elgangga
+http://onlineradiobox.com/json/id/elgangga/play
+#EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.onlineradiobox.com/img/l/7/19317.v12.png",Geronimo
+http://onlineradiobox.com/json/id/geronimo/play
+#EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.onlineradiobox.com/img/l/5/20405.v5.png",Dahlia
+http://onlineradiobox.com/json/id/dahlia/play
+#EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/124650.v4.png",Sunda Radio
+http://onlineradiobox.com/json/id/sunda/play
+#EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.onlineradiobox.com/img/l/7/19177.v12.png",Imelda
+http://onlineradiobox.com/json/id/imelda/play
+#EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.onlineradiobox.com/img/l/2/91532.v2.png",Swara Semarang
+http://onlineradiobox.com/json/id/swarasemarang/play
+#EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.onlineradiobox.com/img/l/6/19016.v7.png",Gajah Mada
+http://onlineradiobox.com/json/id/gajahmada/play
+#EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.onlineradiobox.com/img/l/2/19032.v7.png",Radio Cakra
+http://onlineradiobox.com/json/id/cakrabandung/play
+#EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.onlineradiobox.com/img/l/7/71837.v19.png",Radio CMN
+http://onlineradiobox.com/json/id/coolmusicnow/play
+#EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.onlineradiobox.com/img/l/9/75979.v7.png",RMK Radio
+http://onlineradiobox.com/json/id/masakini/play
+#EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.onlineradiobox.com/img/l/9/91579.v5.png",Elshinta
+http://onlineradiobox.com/json/id/elshinta/play
