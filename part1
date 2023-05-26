@@ -186,26 +186,12 @@ https://realstories-samsung-uk.amagi.tv/playlist.m3u8
 https://xite-samsung-de.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="World",Young Hollywood (US)
 https://younghollywood-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="World" tvg-logo="https://i.imgur.com/1Mtx9mY.png?v=1.1.1.1",CNN Indonesia HD
-http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
-#EXTINF:-1 group-title="World",BOOGELE BOOLYWOOD
-http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
-#EXTINF:-1 group-title="World",CNBN
-http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w528900641_b384000_sleng.m3u8
-#EXTINF:-1 group-title="World",CTV BANTEN
-http://103.23.201.170:1935/live/livestream/playlist.m3u8
-#EXTINF:-1 group-title="World",ELSHINTA
-http://210.210.155.35/session/a3a86eca-319a-11e9-ba6a-b82a72d63267/qwr9ew/s/s10/02.m3u8
 #EXTINF:-1 group-title="World",Euro Indie Music Chart
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
 #EXTINF:-1 group-title="World",Fashion TV Midnite Secrets
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="World",Filmrise Crime
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_2500000/index.m3u8
-#EXTINF:-1 group-title="World",METRO TV
-https://cdn-telkomsel-01.akamaized.net:443/Content/DASH/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/manifest.mpd
-#EXTINF:-1 group-title="World",Phoenix
-http://210.210.155.35/x6bnqe/s/s80/index2.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="World",TVO KIDS
 https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
 #EXTINF:-1 group-title="World",3 ThaiPBS
@@ -216,16 +202,6 @@ https://live.thairath.co.th/trtv2/playlist.m3u8
 https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
 #EXTINF:-1 group-title="World",Adventure sport
 https://dai2.xumo.com/xumocdn/adventuresportsnetworkEdhorizki-PPIIPTV/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8
-#EXTINF:-1 group-title="World",ANTV
-http://chostv.mobie.in/files/iptv/antv.m3u8
-#EXTINF:-1 group-title="World",Awani
-https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/master.m3u8
-#EXTINF:-1 group-title="World",BeritaHK
-http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
-#EXTINF:-1 group-title="World",CombatGo HD
-https://dai.google.com/linear/hls/event/gaDje967RoSDD5llid2OBA/master.m3u8
-#EXTINF:-1 group-title="World",DAAI TV TAIWAN
-https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 #EXTINF:-1 group-title="World",Dubai Sport 2
 http://dmitwlfr.cdn.mangomolo.com:80/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 group-title="World",Dubai Sport 3 FHD
@@ -240,8 +216,6 @@ http://a3569457567-zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8?checkedby
 #EXTINF:-1 group-title="World",GOODtv9(setAuto)
 http://live.streamingfast.net/osmflivech9.m3u8
-#EXTINF:-1 group-title="World",INDOSIAR HD
-http://chostv.mobie.in/files/iptv/indosiar.m3u8
 #EXTINF:-1 group-title="World",NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1 group-title="World",Red Bull TV (540p)
@@ -252,12 +226,6 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA_HLS/bw6000000/variant.m3u8
 #EXTINF:-1 group-title="World",TDM SPORT MACAU
 http://live4.tdm.com.mo:80/ch4/_definst_/sport_ch4.live/playlist.m3u8
-#EXTINF:-1 group-title="World",TechStorm
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(abe4ead2-1a88-4330-9f41-382fcf94bba2)/manifest.mpd
-#EXTINF:-1 group-title="World",TVRI BUDAYA
-http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
-#EXTINF:-1 group-title="World",TVRI HD
-http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
 #EXTINF:-1 group-title="World",Viasat Sport East
 https://persik.tv/stream/3602/287583/10249.m3u8
 #EXTINF:-1 group-title="World",Конный Мир
@@ -270,108 +238,6 @@ http://live03-cdn.tv.ti.ru/dtv/id1303_NBN_SG--StartHD_wflite/04/plst.m3u8
 http://cclive2.aniu.tv/live/anzb.m3u8
 #EXTINF:-1 group-title="World" tvg-logo="https://www.linkpicture.com/q/126E40A2-0107-498D-A518-E3DAB805FE76.png",GAME
 https://live-content.xumo.com/170/content/XM00UVIHRILCPE/21427120/4.m3u8
-#EXTINF:-1 group-title="World",K POP TV
-https://m3u-editor.com/serve/c1379450-7f43-11ec-9c8c-dbddc6310830/486281104
-#EXTINF:-1 group-title="World",RETROPLUS TV
-https://m3u-editor.com/serve/c1379450-7f43-11ec-9c8c-dbddc6310830/486281105
-#EXTINF:-1 group-title="World",[untitled]
-https://m3u-editor.com/serve/c1379450-7f43-11ec-9c8c-dbddc6310830/486281402
-#EXTINF:-1 group-title="World",DUBAI SPORT2
-https://m3u-editor.com/serve/c1379450-7f43-11ec-9c8c-dbddc6310830/486281176
-#EXTINF:-1 group-title="World",DUBAI SPORT3
-https://m3u-editor.com/serve/c1379450-7f43-11ec-9c8c-dbddc6310830/486281177
-#EXTINF:-1 group-title="World",Astrakhan.ru Sport HD
-https://m3u-editor.com/serve/c1379450-7f43-11ec-9c8c-dbddc6310830/486281233
-#EXTINF:-1 group-title="World",Astrakhan.ru Sport HD
-https://m3u-editor.com/serve/c1379450-7f43-11ec-9c8c-dbddc6310830/486281234
-#EXTINF:-1 group-title="World",Xing Kong TV Back
-https://m3u-editor.com/serve/c1379450-7f43-11ec-9c8c-dbddc6310830/486281328
-#EXTINF:-1 group-title="World",NASA TV
-https://m3u-editor.com/serve/c1379450-7f43-11ec-9c8c-dbddc6310830/486281441
-#EXTINF:-1 group-title="World",Ausbiz TV
-https://m3u-editor.com/serve/c1379450-7f43-11ec-9c8c-dbddc6310830/486281696
-#EXTINF:-1 group-title="World",Australia Channel
-https://m3u-editor.com/serve/c1379450-7f43-11ec-9c8c-dbddc6310830/486281697
-#EXTINF:-1 group-title="World",Bloomberg Australia
-https://m3u-editor.com/serve/c1379450-7f43-11ec-9c8c-dbddc6310830/486281698
-#EXTINF:-1 group-title="World",Bloomberg TV Australia
-https://m3u-editor.com/serve/c1379450-7f43-11ec-9c8c-dbddc6310830/486281699
-#EXTINF:-1 group-title="World",Fox Sports News
-https://m3u-editor.com/serve/c1379450-7f43-11ec-9c8c-dbddc6310830/486281702
-#EXTINF:-1 group-title="World",Sky News Extra 1
-https://m3u-editor.com/serve/c1379450-7f43-11ec-9c8c-dbddc6310830/486281706
-#EXTINF:-1 group-title="World",Sky News Extra 2
-https://m3u-editor.com/serve/c1379450-7f43-11ec-9c8c-dbddc6310830/486281707
-#EXTINF:-1 group-title="World",Sky News Extra 3
-https://m3u-editor.com/serve/c1379450-7f43-11ec-9c8c-dbddc6310830/486281708
-#EXTINF:-1 group-title="World",Arirang (1080p)
-https://m3u-editor.com/serve/c1379450-7f43-11ec-9c8c-dbddc6310830/486281711
-#EXTINF:-1 group-title="World",Arirang HD (1080p)
-https://m3u-editor.com/serve/c1379450-7f43-11ec-9c8c-dbddc6310830/486281712
-#EXTINF:-1 group-title="World",BBS Buddhist Broadcasting (1080p)
-https://m3u-editor.com/serve/c1379450-7f43-11ec-9c8c-dbddc6310830/486281714
-#EXTINF:-1 group-title="World",EBS Kids (360p)
-https://m3u-editor.com/serve/c1379450-7f43-11ec-9c8c-dbddc6310830/486281719
-#EXTINF:-1 group-title="World",Fishing TV (288p)
-https://m3u-editor.com/serve/c1379450-7f43-11ec-9c8c-dbddc6310830/486281721
-#EXTINF:-1 group-title="World",Gugbang TV (404p)
-https://m3u-editor.com/serve/c1379450-7f43-11ec-9c8c-dbddc6310830/486281722
-#EXTINF:-1 group-title="World",Hallypop (1080p)
-https://m3u-editor.com/serve/c1379450-7f43-11ec-9c8c-dbddc6310830/486281723
-#EXTINF:-1 group-title="World",MTN
-https://m3u-editor.com/serve/c1379450-7f43-11ec-9c8c-dbddc6310830/486281728
-#EXTINF:-1 group-title="World",NBS Korea Agricultural Broadcasting (720p)
-https://m3u-editor.com/serve/c1379450-7f43-11ec-9c8c-dbddc6310830/486281730
-#EXTINF:-1 group-title="World",SBS KNN (450p)
-https://m3u-editor.com/serve/c1379450-7f43-11ec-9c8c-dbddc6310830/486281732
-#EXTINF:-1 group-title="World",TVWorkNet (480p)
-https://m3u-editor.com/serve/c1379450-7f43-11ec-9c8c-dbddc6310830/486281736
-#EXTINF:-1 group-title="World",KBCTV
-https://m3u-editor.com/serve/c1379450-7f43-11ec-9c8c-dbddc6310830/486281743
-#EXTINF:-1 group-title="World",TJB SBS
-https://m3u-editor.com/serve/c1379450-7f43-11ec-9c8c-dbddc6310830/486281744
-#EXTINF:-1 group-title="World",MTN
-https://m3u-editor.com/serve/c1379450-7f43-11ec-9c8c-dbddc6310830/486281745
-#EXTINF:-1 group-title="World",WORKTV
-https://m3u-editor.com/serve/c1379450-7f43-11ec-9c8c-dbddc6310830/486281747
-#EXTINF:-1 group-title="World",MITV
-https://m3u-editor.com/serve/c1379450-7f43-11ec-9c8c-dbddc6310830/486281748
-#EXTINF:-1 group-title="World",TVWORK NET
-https://m3u-editor.com/serve/c1379450-7f43-11ec-9c8c-dbddc6310830/486281758
-#EXTINF:-1 group-title="World",KienGiangTV1
-https://m3u-editor.com/serve/c1379450-7f43-11ec-9c8c-dbddc6310830/486281764
-#EXTINF:-1 group-title="World",BRT (360p)
-https://m3u-editor.com/serve/c1379450-7f43-11ec-9c8c-dbddc6310830/486281772
-#EXTINF:-1 group-title="World",Cà Mau TV
-https://m3u-editor.com/serve/c1379450-7f43-11ec-9c8c-dbddc6310830/486281774
-#EXTINF:-1 group-title="World",Da Nang TV1
-https://m3u-editor.com/serve/c1379450-7f43-11ec-9c8c-dbddc6310830/486281775
-#EXTINF:-1 group-title="World",Da Nang TV2
-https://m3u-editor.com/serve/c1379450-7f43-11ec-9c8c-dbddc6310830/486281777
-#EXTINF:-1 group-title="World",HBTV
-https://m3u-editor.com/serve/c1379450-7f43-11ec-9c8c-dbddc6310830/486281778
-#EXTINF:-1 group-title="World",KienGiangTV
-https://m3u-editor.com/serve/c1379450-7f43-11ec-9c8c-dbddc6310830/486281780
-#EXTINF:-1 group-title="World",KienGiangTV1
-https://m3u-editor.com/serve/c1379450-7f43-11ec-9c8c-dbddc6310830/486281782
-#EXTINF:-1 group-title="World",QRT
-https://m3u-editor.com/serve/c1379450-7f43-11ec-9c8c-dbddc6310830/486281788
-#EXTINF:-1 group-title="World",Qu?c H?i (720p)
-https://m3u-editor.com/serve/c1379450-7f43-11ec-9c8c-dbddc6310830/486281790
-#EXTINF:-1 group-title="World",Tien Giang (720p)
-https://m3u-editor.com/serve/c1379450-7f43-11ec-9c8c-dbddc6310830/486281791
-#EXTINF:-1 group-title="World",TV1
-https://m3u-editor.com/serve/c1379450-7f43-11ec-9c8c-dbddc6310830/486281822
-#EXTINF:-1 group-title="World",TV2
-https://m3u-editor.com/serve/c1379450-7f43-11ec-9c8c-dbddc6310830/486281823
-#EXTINF:-1 group-title="World",CMT
-https://m3u-editor.com/serve/c1379450-7f43-11ec-9c8c-dbddc6310830/486281826
-#EXTINF:-1 group-title="World",Court TV
-https://m3u-editor.com/serve/c1379450-7f43-11ec-9c8c-dbddc6310830/486281827
-#EXTINF:-1 group-title="World",CBSN Los Angeles
-https://m3u-editor.com/serve/c1379450-7f43-11ec-9c8c-dbddc6310830/486281829
-#EXTINF:-1 group-title="World",Kabillion
-https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxkabillion/CDN/1280x720_5000000/index.m3u8
 #EXTINF:-1 group-title="World",Channel NewsAsia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 #EXTINF:-1 group-title="World",Arirang TV
