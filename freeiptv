@@ -8,7 +8,7 @@ http://mediaprima.rastream.com/mediaprima-hotfm.android
 #EXTINF:-1 group-title="Radio",Ceria FM
 http://172.83.43.162:8080/stream/;
 #EXTINF:-1 group-title="Radio",NAGASWARA Radio
-https://live.nagaswarafm.com:9900/nagaswararadio
+https://live.nagaswarafm.com/nagaswararadio/stream
 #EXTINF:-1 group-title="Radio",Kool FM
 http://mediaprima.rastream.com/mediaprima-koolfm
 #EXTINF:-1 group-title="Radio",Loker Musik Indonesia
@@ -18,9 +18,9 @@ https://sundaradio.com/live/sundaradio
 #EXTINF:-1 group-title="Radio",Lite FM
 http://astro1.rastream.com/lite?type=mp3
 #EXTINF:-1 group-title="Radio",NAGASWARA Pop
-https://live.nagaswarafm.com:9100/nagaswarapop
+https://live.nagaswarafm.com/nagaswarapop/stream
 #EXTINF:-1 group-title="Radio",NAGASWARA Dance
-https://live.nagaswarafm.com:9200/nagaswaradance
+https://live.nagaswarafm.com/nagaswaradance/stream
 #EXTINF:-1 group-title="Radio",Sinar FM
 http://astro2.rastream.com/sinar?type=mp3
 #EXTINF:-1 group-title="Radio",Mix FM
